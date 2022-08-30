@@ -1,2 +1,2 @@
 My first readme
-Edited verion yo!
+Edited version yo!
